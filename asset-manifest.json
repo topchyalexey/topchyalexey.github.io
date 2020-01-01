@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vk-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-app/static/js/main.ab0ab6d4.chunk.js",
+    "main.js.map": "/vk-app/static/js/main.ab0ab6d4.chunk.js.map",
+    "runtime-main.js": "/vk-app/static/js/runtime-main.478c7cd0.js",
+    "runtime-main.js.map": "/vk-app/static/js/runtime-main.478c7cd0.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/vk-app/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.de658857.chunk.js": "/vk-app/static/js/2.de658857.chunk.js",
+    "static/js/2.de658857.chunk.js.map": "/vk-app/static/js/2.de658857.chunk.js.map",
+    "index.html": "/vk-app/index.html",
+    "precache-manifest.2fae25c4bb2a2367f1ee9c9644b261e4.js": "/vk-app/precache-manifest.2fae25c4bb2a2367f1ee9c9644b261e4.js",
+    "service-worker.js": "/vk-app/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/vk-app/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-app/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.de658857.chunk.js.LICENSE": "/vk-app/static/js/2.de658857.chunk.js.LICENSE",
+    "static/media/persik.png": "/vk-app/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478c7cd0.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.de658857.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.ab0ab6d4.chunk.js"
+  ]
+}
